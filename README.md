@@ -3,7 +3,7 @@
 Интерактивный адаптивный сайт-портфолио, разработанный для демонстрации коммерческих кейсов по созданию автоматизированных систем и Telegram-ботов на Python.
 
 ## 🔗 Ссылки
-* **Живой сайт (Demo):** [Вставь сюда ссылку из GitHub Pages, которую получишь в шаге со Settings]
+* **Живой сайт (Demo):** [https://prostoartem1.github.io/PORTFOLIO/]
 * **Профиль на фрилансе:** [Freelancehunt](https://freelancehunt.com/freelancer/melsi.html)
 
 ---
